@@ -1,2 +1,2 @@
-# Perform-Mobile-Device-Backup-Recovery
-Mobile device backup recovery lab
+# Cryptogtaphic Functions Lab
+In this series of lab projects, I learned the following tasks:
