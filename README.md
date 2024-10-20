@@ -31,8 +31,11 @@ encryption for data at rest as part data loss prevention (DLP).
 
 ## Steps
 This lab was completed as part of the SANS Institute course SEC401: Security Essentials - Network, Endpoint, and Cloud. I HIGHLY recommend this course!
+
 For more information about SEC401, visit https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/
 
 Due to licensing restrictions, I cannot publish the specific steps completed or lab artifacts without disclosing copyrighted learning materials or 
 breaching the SANS Courseware License Agreement (CLA). As such, I present my GIAC Security Essentials Certification (GSEC) as evidence of mastery in lieu of
-providing lab artifacts. https://www.credly.com/badges/da5ab023-e27e-4ed1-9157-ba149bcd9358/public_url
+providing lab artifacts. 
+
+View Credential: https://www.credly.com/badges/da5ab023-e27e-4ed1-9157-ba149bcd9358/public_url
